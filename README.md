@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nolen Jensen
 - 👀 I’m interested in building and designing software that can help shape the world
+- "Live life to the beat of your own drum, and dont let anyone else dictate the rhythm"
 - 📫 email: njensen1443@icloud.com
 - 📫 @fryball:beeper.com
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nolen Jensen
-- 👀 I’m interested in building and designing software that can help shape the world.
+- Software + systems tinkerer: Python/Node, Linux scripting, hardware projects. Interested in backend, DevOps, and tools that make work easier.
 - "Live life to the beat of your own drum, and don't let anyone else dictate the rhythm."
 - 📫 email: njensen1443@icloud.com
 - 📫 @fryball:beeper.com
